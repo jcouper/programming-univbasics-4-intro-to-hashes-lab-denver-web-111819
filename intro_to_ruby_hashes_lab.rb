@@ -15,7 +15,7 @@ def pioneer
 end
 
 def id_generator
- new_hash = {:id => "yeah"}
+ new_hash = {:id => 15}
 end
 
 def my_hash_creator(key, value)
